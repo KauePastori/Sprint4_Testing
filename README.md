@@ -15,7 +15,7 @@ Query – Bugs Abertos: <cole o link da query “R1.0 – Bugs Abertos”>
 
 🎥 Vídeo dos testes automatizados (Parte B)
 
-YouTube (não listado): ----------------------------------------------------------------------------------------------------------
+YouTube (não listado): https://youtu.be/qQwNyQq2M40
 
 O vídeo mostra: configuração do Postman, execução da collection no Runner e todos os testes PASS.
 
